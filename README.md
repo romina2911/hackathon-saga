@@ -75,7 +75,7 @@ Por lo tanto ella posee poco tiempo para dedicarse a navegar en la red buscando 
 
 ![arquetipo](assets/images/arquetipo.jpg)
 #### Vista login
-
+![arquetipo](assets/images/login.jpg)
 
 #### Vista home 
 ![arquetipo](assets/images/menu-burger.jpg)
