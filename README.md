@@ -1,5 +1,7 @@
-# PROYECTO: xxxxxxx
-# BAJO EL LEMA: xxxxxx
+# PROYECTO: Syneek
+
+Syneek es una aplicación web responsive design la cual esta desarrollada pensando en aquellas personas que gustan de las sagas cinematográficas. Por lo tanto es una propuesta la cual facilita la búsqueda de estas.
+Esta aplicación te permitira conocer los estrenos, organizar tus películas en colecciones y recomendarte las mejores peliculas de acuerdo a tus preferencias brindadas en tu perfil.
 
 ## User research
 
@@ -18,7 +20,6 @@ Link de la encuesta: https://goo.gl/forms/QY0ks7m6yTI218Jk1
 #### Resultados de la encuesta
 
 ![resultados de la encuesta](assets/images/resultados-encuesta.jpg)
-
 
 ![resultados de la encuesta](assets/images/recomendaciones.jpg)
 
@@ -44,7 +45,9 @@ Entonces, ¿Cuál es el problema? Que ningún website responde a la pregunta  ¿
 
 ### Objetivos del usuario en nuestra plataforma
 
+Un espacio en el cual puedan acceder 
 ## Propuesta de producto
+Nuestra propuesta es una aplicación que permita a los amantes de las sagas  realizar la búsqueda de sus peliculas favoritas
 
 ### Prototipado
 
