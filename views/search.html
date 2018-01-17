@@ -6,27 +6,44 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Saga</title>
   <!-- google fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Acme|Amaranth|Baloo+Thambi|Bangers|Boogaloo|Convergence|Fredoka+One|Londrina+Solid|Patrick+Hand|Righteous|Signika|Unkempt|Yatra+One" rel="stylesheet">
-  <!-- font awesome -->
-  <link href="https://fonts.googleapis.com/css?family=PT+Sans|Raleway|Roboto" rel="stylesheet">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-  <!-- Link de Bootstrap -->
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans|Raleway|Righteous" rel="stylesheet">
+  <!-- css Bootstrap-->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css">
+  <!-- font awesome icons -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <!-- css de la vista search -->
   <link rel="stylesheet" href="../css/search.css">
 </head>
-<body>
-  <nav class="nav-dark container-fluid text-blank d-flex flex-row p-1 pb-2">
-    <i class="fa fa-bars p-2 mt-2" aria-hidden="true"></i>
+<body class="color-text-body">
+  <!-- Barra de navegación -->
+  <nav class="nav-dark container-fluid d-flex flex-row p-1 pb-2 logo-text">
+    <!-- <i class="fa fa-bars p-2 d-flex align-items-center" aria-hidden="true"></i> -->
+    <div class="dropdown show">
+      <a class="btn btn-secondary dropdown-toggle fa fa-bars p-2 d-flex align-items-center" href="" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></a>
+      <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+        <a class="dropdown-item" href="#">Hola <span id="username"></span></a>
+        <a class="dropdown-item" href="#">Mi Perfil</a>
+        <a class="dropdown-item" href="#">Mis Colecciones</a>
+        <input class="dropdown-item" href="#" type="button">Cerrar sesión</input>
+      </div>
+    </div>
     <h1 class="ml-2">Syneek</h1>
-    <i class="fa fa-user-circle-o p-2 mt-2 ml-5 pl-3" aria-hidden="true"></i>
+    <i class="fa fa-user-circle-o p-2 mt-2 pl-5 ml-4 " aria-hidden="true"></i>
   </nav>
-  <div class="container">
-    <p class="text">Mis colecciones: </p>
-    <p class="p-text">Nombre, Año</p>
-    <input type="button" class="mt-2 rounded color-o border-0 p-2 text-light" value="hoola">
-    </input>
+  <!-- Input de búsqueda de películas de saga -->
+  <div class="container w-50 d-flex justify-content-center ml-0 mt-4 ml-3">
+    <div class="input-group mb-3">
+      <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+    <div class="input-group-prepend ">
+    <span class="input-group-text fa fa-search bg-dark rounded-right border border-dark text-light" id="basic-addon1"></span>
+    </div>
+    </div>
   </div>
+  <hr class="bg-dark">
+  <!-- sección de películas -->
+  <section class="container">
+
+  </section>
   <!-- Bootstrap js -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js"></script>
   <!-- adjuntando js de la vista search -->
