@@ -19,7 +19,7 @@ Link de la encuesta: https://goo.gl/forms/QY0ks7m6yTI218Jk1
 
 #### Resultados de la encuesta
 
-![resultados de la encuesta](assets/images/resultados-encuesta.jpg)
+![resultados de la encuesta](/assets/images/resultados-encuesta.jpg)
 
 
 Luego de los resultados de la encuesta pudimos concluir que la aplicación será basada en aquellas peliculas que formen parte de una saga.
