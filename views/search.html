@@ -1,125 +1,35 @@
 <!DOCTYPE html>
-<html lang="es">
-
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>FoodMap</title>
-  <!-- Hojas de estilo para iconos -->
-  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
-    crossorigin="anonymous">
-  <link rel="shortcut icon" href="../assets/icons/food-icon.png" type="image/x-icon">
-  <!-- Fuentes externas del proyecto -->
-  <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
-  <!-- Hojas de estilo de Bootstrap  -->
-  <link type="text/css" rel="stylesheet" href="../vendors/bootstrap/css/bootstrap.min.css" />
-  <!-- Hojas de estilo personalizadas este proyecto  -->
-  <link href="../css/main.css" rel="stylesheet">
+  <title>Saga</title>
+  <!-- google fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Acme|Amaranth|Baloo+Thambi|Bangers|Boogaloo|Convergence|Fredoka+One|Londrina+Solid|Patrick+Hand|Righteous|Signika|Unkempt|Yatra+One" rel="stylesheet">
+  <!-- font awesome -->
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans|Raleway|Roboto" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- Link de Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css">
+  <!-- css de la vista search -->
+  <link rel="stylesheet" href="../css/search.css">
 </head>
-
 <body>
-  <!-- Menú navegador-->
-  <nav class="navbar navbar-default bg-gradient text-white">
-    <div class="container-fluid space-between align-items-center">
-      <div class="row align-self-start">
-        <div class="navbar-header">
-          <a class="navbar-brand" href="../index.html">
-            <i class="glyphicon glyphicon-menu-left"></i>
-          </a>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-xs-12 font-pacifico">
-          <h2>Food Map</h2>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-xs-12 text-center">
-          <h5>Empieza tu nueva aventura culinaria !!!</h5>
-        </div>
-      </div>
-    </div>
+  <nav class="nav-dark container-fluid text-blank d-flex flex-row p-1 pb-2">
+    <i class="fa fa-bars p-2 mt-2" aria-hidden="true"></i>
+    <h1 class="ml-2">Syneek</h1>
+    <i class="fa fa-user-circle-o p-2 mt-2 ml-5 pl-3" aria-hidden="true"></i>
   </nav>
-  <!-- Formulario de paises-->
-  <main>
-
-    <!-- Indicación para enviar el código-->
-    <section>
-      <div class="container">
-        <div class="row">
-          <div class="col-xs-12 text-center">
-            <h4>Restaurantes cercanos a ti</h4>
-
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-12">
-            <div id="map" class="map center-block"></div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-12 text-center">
-          <h5>Ingrese el rubro de restaurantes que desea buscar </h5>
-
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-xs-12 col-sm-8 col-sm-offset-2  flex-center justify-center">
-          <!-- Caja de texto para ingresar el ntipo de comida a buscar-->
-          <div class="margin-top center-block col-xs-12">
-            <input id="list-kind-of-food" list="kind-of-food" name="kind-of-food" class="col-xs-12">
-            <datalist id="kind-of-food">
-
-            </datalist>
-
-          </div>
-
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-xs-12 text-center margin-top">
-          <button id="btn-search" type="button" class="btn btn-success btn-sm">
-            Buscar
-          </button>
-        </div>
-      </div>
-
-      <div id="results" class="row col-xs-12 center-block results text-center">
-        
-
-      </div>
-    
-
-    </div>
-
-
-  </main>
-    <!-- Modal -->
-    <div id="modal" class="modal">
-        <div class="modal-content">
-          <h4 id="title-modal" class="title-modal"></h4>
-          <div id="modal-map" class="modal-map"></div>
-          <div id="modal-data" class="modal-data"></div>
-        </div>
-      </div>
-
-  <!-- Js de Jquery-->
-  <script type="text/javascript" src="../vendors/js/jquery-3.2.1.min.js"></script>
-  <!-- Js de bootstrap-->
-  <script type="text/javascript" src="../vendors/bootstrap/js/bootstrap.min.js"></script>
-  <!-- Base de datos-->
-  <script type="text/javascript" src="../js/data.js"></script>
-  <!-- Js para la página-->
-  <script type="text/javascript" src="../js/search.js"></script>
-  <!-- API de Google Maps-->
-  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBzuohCrydXW_ZkeoCiX1cOZ8WkDLevZXE&libraries=places&callback=initMap"></script>
-
+  <div class="container">
+    <p class="text">Mis colecciones: </p>
+    <p class="p-text">Nombre, Año</p>
+    <input type="button" class="mt-2 rounded color-o border-0 p-2 text-light" value="hoola">
+    </input>
+  </div>
+  <!-- Bootstrap js -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js"></script>
+  <!-- adjuntando js de la vista search -->
+  <script src="js/search.js"></script>
 </body>
-
 </html>
