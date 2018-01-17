@@ -55,38 +55,45 @@ Entonces, ¿Cuál es el problema? Que ningún website responde a la pregunta  ¿
 ## Research 
 
 ### Arquetipo del usuario
+
+![arquetipo](assets/images/arquetipo.jpg)
 Emperatriz Castilla es una chica de  23 años amante de las sagas cinematográficas entre ellas Harry Potter, Star Wars, Rapidos y furiosos , entre otros.
-Ella actualmente trabaja en un colegio y estudia psicología , uno de sus hobbies principales son ver peliculas que sean parte de una saga pues le gusta la continuidad de las historias.
-Por lo tanto ella desea saber más de esto que la atrae demasiado.
+Ella actualmente trabaja en un colegio y estudia psicología, uno de sus hobbies principales son ver peliculas que sean parte de una saga pues le gusta la continuidad de las historias.
+Por lo tanto ella posee poco tiempo para dedicarse a navegar en la red buscando un lugar en el que pueda visualizar sus peliculas favoritas.
 
 #### Objetivos de Emperatriz en nuestro website
-1. Visualizar las peliculas que conforman un saga sin tener la preocupación de buscarlas de una en una.
-2. Obtener información relacionada a las peliculas (libros, comics, eventos, etc).
-3. Tener la posibilidad de crear colecciones de acuerdo a sus preferencias.
-### Objetivos del usuario en nuestra plataforma
+1. Una plataforma en la cual pueda loguearse de forma sencilla con su correo de gmail desde cualquier dispositivo.  
+2. Visualizar las peliculas que conforman un saga sin tener la preocupación de buscarlas de una en una.
+3. Obtener información relacionada a las peliculas (libros, comics, eventos, etc).
+4. Tener la posibilidad de crear colecciones de acuerdo a sus preferencias.
 
-Un espacio en el cual puedan acceder de forma simple con su usuario de gmail 
-## Propuesta de producto
-Nuestra propuesta es una aplicación que permita a los amantes de las sagas  realizar la búsqueda de sus peliculas favoritas
+
 
 ### Prototipado
 
 #### Vista splash
 
+![arquetipo](assets/images/arquetipo.jpg)
 #### Vista login
 
-#### Vista home
+
+#### Vista home 
+![arquetipo](assets/images/menu-burger.jpg)
+![arquetipo](assets/images/main.jpg)
+
 
 #### Vista perfil del usuario
+![arquetipo](assets/images/profile-user.jpg)
 
-#### Vista search
+
 
 #### Vista results
+![arquetipo](assets/images/results.jpg)
 
 #### Vista movie
-
+![arquetipo](assets/images/movie.jpg)
 ### Prototipo en Marvel
-
+https://marvelapp.com/2b563c2
 ### Planificación 
 El primer día luego de escuchar las indicaciones del producto nos planificamos de la siguiente manera:
 ![primer día](assets/images/primerdia.jpg)
