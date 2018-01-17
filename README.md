@@ -19,13 +19,26 @@ Link de la encuesta: https://goo.gl/forms/QY0ks7m6yTI218Jk1
 
 ![resultados de la encuesta](assets/images/resultados-encuesta.jpg)
 
+
+![resultados de la encuesta](assets/images/recomendaciones.jpg)
+
+Luego de los resultados de la encuesta pudimos concluir que la aplicación será basada en aquellas peliculas que formen parte de una saga.
+Adicional a eso debemos tener en cuenta las recomendaciones que nos dieron los usuarios para nuestra aplicación
 ## Benchmarking 
 
 ### Análisis de la competencia
 
+Actualmente existen diversas plataformas que nos permiten realizar la búsqueda de películas,sin embargo estas nos sumergen en un sin número de films que no abarcan nuestro público objetivo.
+
+Si nos detenemos a pensar en ¿cómo categorizar las películas? o aun más importante ¿Cómo me entero de los próximos estrenos? La respuesta es fácil: según Google, existen alrededor de 80 100 000 sites con información sobre películas de distinta índole, algunos más actualizados que otros. Toda la información está recopilada, clasificada y dispuesta a quien desee conocerla.
+
+Específicamente, para aquellos que prefieren las películas con continuación (o sagas), existen numerosos de sites  que guardan esa información Google ofrece cerca de 826 000 resultados al hacer una búsqueda rápida de "películas+sagas".
+
+Si realizamos un ranking de las películas más vistas en la historia del cine, el resultado será conformado principalmente por sagas tales como: Star Wars, Jurassic World, Avengers,  Fast & Furious, Harry Potter, Transformer, El señor d loas anillos, entre otros.
+
+Entonces, ¿Cuál es el problema? Que ningún website responde a la pregunta  ¿Qué peliculas que conforman una saga existen?... Y, es un tópico poco abordado, aun cuando se encuentra presente en distintos foros en páginas especializadas sobre película o libros. Es decir, existe un grupo de personas a quienes los websites tradicionales no satisface
+
 ## Research 
-
-
 
 ### Arquetipo del usuario
 
@@ -52,7 +65,7 @@ Link de la encuesta: https://goo.gl/forms/QY0ks7m6yTI218Jk1
 ### Prototipo en Marvel
 
 ### Planificación 
-El primer día luego d escuchar las indicaciones dl producto nos planificamos de la siguiente manera:
+El primer día luego de escuchar las indicaciones del producto nos planificamos de la siguiente manera:
 ![primer día](assets/images/primerdia.jpg)
 ![primer día](assets/images/plan-semanal.jpg)
 #### Flujo de la aplicación 
