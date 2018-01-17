@@ -45,7 +45,6 @@ $(document).ready(function () {
         photo: user.photoURL
       };
       // probando es el nombre de tu rama
-  
       firebase.database().ref('users/' + user.uid).set(userToSave); // push añade un registro 
     }
 
