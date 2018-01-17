@@ -21,10 +21,23 @@ Link de la encuesta: https://goo.gl/forms/QY0ks7m6yTI218Jk1
 
 ![resultados de la encuesta](assets/images/resultados-encuesta.jpg)
 
-![resultados de la encuesta](assets/images/recomendaciones.jpg)
 
 Luego de los resultados de la encuesta pudimos concluir que la aplicación será basada en aquellas peliculas que formen parte de una saga.
-Adicional a eso debemos tener en cuenta las recomendaciones que nos dieron los usuarios para nuestra aplicación
+Adicional a eso debemos tener en cuenta las recomendaciones que nos dieron los usuarios para nuestra aplicación.
+
+#### Recomendaciones
+
+![resultados de la encuesta](assets/images/recomendaciones.jpg)
+
+1. Obtener recomendaciones de la aplicación según tus preferencias.
+2. Tener una lista personal de peliculas favoritas
+3. Un buscador por tipo de película,genero , año, breve reseña y calificación (1-5 estrellas).
+4. Tener link para leer los libros o comics en caso esten basados en algunos de ellos
+5. Mostrar las peliculas que han sino nominadas y ganadoras del Oscar
+6. Conectarme con personas que recomienden las peliculas 
+7. Recomendar las peliculas según el rating de las mismas.
+8. Brindar un link para visualizar las peliculas 
+
 ## Benchmarking 
 
 ### Análisis de la competencia
