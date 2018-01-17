@@ -73,7 +73,7 @@ Por lo tanto ella posee poco tiempo para dedicarse a navegar en la red buscando 
 
 #### Vista splash
 
-![arquetipo](assets/images/arquetipo.jpg)
+![arquetipo](assets/images/splash.jpg)
 #### Vista login
 ![arquetipo](assets/images/login.jpg)
 
