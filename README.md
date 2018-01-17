@@ -32,7 +32,7 @@ Adicional a eso debemos tener en cuenta las recomendaciones que nos dieron los u
 1. Obtener recomendaciones de la aplicación según tus preferencias.
 2. Tener una lista personal de peliculas favoritas
 3. Un buscador por tipo de película,genero , año, breve reseña y calificación (1-5 estrellas).
-4. Tener link para leer los libros o comics en caso esten basados en algunos de ellos
+4. Tener link para leer los libros, comics o información relacionada de ellas.
 5. Mostrar las peliculas que han sino nominadas y ganadoras del Oscar
 6. Conectarme con personas que recomienden las peliculas 
 7. Recomendar las peliculas según el rating de las mismas.
@@ -48,17 +48,24 @@ Si nos detenemos a pensar en ¿cómo categorizar las películas? o aun más impo
 
 Específicamente, para aquellos que prefieren las películas con continuación (o sagas), existen numerosos de sites  que guardan esa información Google ofrece cerca de 826 000 resultados al hacer una búsqueda rápida de "películas+sagas".
 
-Si realizamos un ranking de las películas más vistas en la historia del cine, el resultado será conformado principalmente por sagas tales como: Star Wars, Jurassic World, Avengers,  Fast & Furious, Harry Potter, Transformer, El señor d loas anillos, entre otros.
+Si realizamos un ranking de las películas más vistas en la historia del cine, el resultado será conformado principalmente por sagas tales como: Star Wars, Jurassic World, Avengers,  Fast & Furious, Harry Potter, Transformer, El señor de los anillos, entre otros.
 
-Entonces, ¿Cuál es el problema? Que ningún website responde a la pregunta  ¿Qué peliculas que conforman una saga existen?... Y, es un tópico poco abordado, aun cuando se encuentra presente en distintos foros en páginas especializadas sobre película o libros. Es decir, existe un grupo de personas a quienes los websites tradicionales no satisface
+Entonces, ¿Cuál es el problema? Que ningún website responde a la pregunta  ¿Qué peliculas que conforman una saga existen?... Y ¿Dónde puedo encontrar información de ellas y visualizarlas?, es un tópico poco abordado, aun cuando la mayor cantidad de peliculas visualizadas a lo largo de la historia del cine forman parte de una saga. Es decir, existe un grupo de personas a quienes los websites tradicionales no satisface
 
 ## Research 
 
 ### Arquetipo del usuario
+Emperatriz Castilla es una chica de  23 años amante de las sagas cinematográficas entre ellas Harry Potter, Star Wars, Rapidos y furiosos , entre otros.
+Ella actualmente trabaja en un colegio y estudia psicología , uno de sus hobbies principales son ver peliculas que sean parte de una saga pues le gusta la continuidad de las historias.
+Por lo tanto ella desea saber más de esto que la atrae demasiado.
 
+#### Objetivos de Emperatriz en nuestro website
+1. Visualizar las peliculas que conforman un saga sin tener la preocupación de buscarlas de una en una.
+2. Obtener información relacionada a las peliculas (libros, comics, eventos, etc).
+3. Tener la posibilidad de crear colecciones de acuerdo a sus preferencias.
 ### Objetivos del usuario en nuestra plataforma
 
-Un espacio en el cual puedan acceder 
+Un espacio en el cual puedan acceder de forma simple con su usuario de gmail 
 ## Propuesta de producto
 Nuestra propuesta es una aplicación que permita a los amantes de las sagas  realizar la búsqueda de sus peliculas favoritas
 
