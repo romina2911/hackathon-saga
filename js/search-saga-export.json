@@ -68,5 +68,278 @@
     "imdbID": "tt1185834",
     "Type": "movie",
     "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI1MDIwMTczOV5BMl5BanBnXkFtZTcwNTI4MDE3MQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Star Wars Holiday Special",
+    "Year": "1978",
+    "imdbID": "tt0193524",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTE5NGJiM2EtZGQyYy00ZWI1LTk4MGYtZGNmNDllM2I3ZWFjXkEyXkFqcGdeQXVyMjg5NDMwMQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Robot Chicken: Star Wars",
+    "Year": "2007",
+    "imdbID": "tt1020990",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5Mjc5OTQxM15BMl5BanBnXkFtZTcwOTM1MDk3MQ@@._V1._CR114,24,284,413_SY132_CR1,0,89,132_AL_.jpg_V1_SX300.jpg"
+  },
+  {
+    "Title": "Robot Chicken: Star Wars Episode II",
+    "Year": "2008",
+    "imdbID": "tt1334272",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyNTg2OTcyOV5BMl5BanBnXkFtZTcwNDQxODQzNA@@._V1._CR342,682,819,1182_SY132_CR1,0,89,132_AL_.jpg_V1_SX300.jpg"
+  },
+  {
+    "Title": "Robot Chicken: Star Wars Episode III",
+    "Year": "2010",
+    "imdbID": "tt1691338",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyNTYzODM3OF5BMl5BanBnXkFtZTcwMTY4ODM4NA@@._V1._CR21,12,310,461_SX89_AL_.jpg_V1_SX300.jpg"
+  },
+  {
+    "Title": "Empire of Dreams: The Story of the 'Star Wars' Trilogy",
+    "Year": "2004",
+    "imdbID": "tt0416716",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzFhNzZmMjgtYzQwNC00M2UzLTkyZWUtMmMxNjQ2MDdiYTcxXkEyXkFqcGdeQXVyNDQzMDg4Nzk@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Lego Star Wars: The Padawan Menace",
+    "Year": "2011",
+    "imdbID": "tt2005268",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjhmYzlhMTUtM2Q2Ny00Zjc2LThjZDMtMmFhYzUzYzcwYmYyXkEyXkFqcGdeQXVyMjU3MzI1NzI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Star Wars: Revelations",
+    "Year": "2005",
+    "imdbID": "tt0457489",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNzU0NTc3MF5BMl5BanBnXkFtZTcwNTM1MzEzMQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Lego Star Wars: The Empire Strikes Out",
+    "Year": "2012",
+    "imdbID": "tt2402600",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxMzMxNjg1OF5BMl5BanBnXkFtZTcwNjc4NzYxOQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Rogue One: A Star Wars Story - World Premiere",
+    "Year": "2016",
+    "imdbID": "tt6323140",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWMyOThiOTMtYjE3MS00ZTVlLTllY2EtOTMxN2MzM2RlMDFmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Star Wars: The Legacy Revealed",
+    "Year": "2007",
+    "imdbID": "tt1039988",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2RlMmE0OTktMjJhNS00MjhlLWE5MjctNzRjYjc3MzM2N2FhXkEyXkFqcGdeQXVyMjI5ODMzNDQ@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Harry Potter and the Deathly Hallows: Part 2",
+    "Year": "2011",
+    "imdbID": "tt1201607",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyZGU4YzUtNDkzYi00ZDRhLTljYzctYTMxMDQ4M2E0Y2YxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Harry Potter and the Sorcerer's Stone",
+    "Year": "2001",
+    "imdbID": "tt0241527",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjQ3NWNlNmQtMTE5ZS00MDdmLTlkZjUtZTBlM2UxMGFiMTU3XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Harry Potter and the Chamber of Secrets",
+    "Year": "2002",
+    "imdbID": "tt0295297",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxODgwMDkxNV5BMl5BanBnXkFtZTYwMDk2MDg3._V1_SX300.jpg"
+  },
+  {
+    "Title": "Harry Potter and the Goblet of Fire",
+    "Year": "2005",
+    "imdbID": "tt0330373",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Harry Potter and the Prisoner of Azkaban",
+    "Year": "2004",
+    "imdbID": "tt0304141",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Harry Potter and the Order of the Phoenix",
+    "Year": "2007",
+    "imdbID": "tt0373889",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM0NTczMTUzOV5BMl5BanBnXkFtZTYwMzIxNTg3._V1_SX300.jpg"
+  },
+  {
+    "Title": "Harry Potter and the Deathly Hallows: Part 1",
+    "Year": "2010",
+    "imdbID": "tt0926084",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Harry Potter and the Half-Blood Prince",
+    "Year": "2009",
+    "imdbID": "tt0417741",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Harry Potter and the Forbidden Journey",
+    "Year": "2010",
+    "imdbID": "tt1756545",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDM0YzMyNGUtMTU1Yy00OTE2LWE5NzYtZDZhMTBmN2RkNjg3XkEyXkFqcGdeQXVyMzU5NjU1MDA@._V1_SX300.jpg"
+  },
+  {
+    "Title": "X-Men: Days of Future Past",
+    "Year": "2014",
+    "imdbID": "tt1877832",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGIzNWYzN2YtMjcwYS00YjQ3LWI2NjMtOTNiYTUyYjE2MGNkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "X-Men: First Class",
+    "Year": "2011",
+    "imdbID": "tt1270798",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "X-Men",
+    "Year": "2000",
+    "imdbID": "tt0120903",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzU4ODZlYTMtZDg4Yi00OGUzLWEzYjUtZjE2ZmM0NTZkYTQ2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "X-Men 2",
+    "Year": "2003",
+    "imdbID": "tt0290334",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDk0NjYxMzIzOF5BMl5BanBnXkFtZTYwMTc1MjU3._V1_SX300.jpg"
+  },
+  {
+    "Title": "X-Men: The Last Stand",
+    "Year": "2006",
+    "imdbID": "tt0376994",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI1NTg2ODA2Nl5BMl5BanBnXkFtZTcwMDc2MjEzMw@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "X-Men Origins: Wolverine",
+    "Year": "2009",
+    "imdbID": "tt0458525",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWRhMzdhMzEtZTViNy00YWYyLTgxZmUtMTMwMWM0NTEyMjk3XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg"
+  },
+  {
+    "Title": "X-Men: Apocalypse",
+    "Year": "2016",
+    "imdbID": "tt3385516",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjU1ODM1MzYxN15BMl5BanBnXkFtZTgwOTA4NDE2ODE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Pryde of the X-Men",
+    "Year": "1989",
+    "imdbID": "tt0098137",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGRjODA5OTYtODcyNy00NzI2LWI5NGYtNGZkM2M0YTgwOWRhXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Second Uncanny Issue of X-Men! Making 'X2'",
+    "Year": "2003",
+    "imdbID": "tt0395755",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "X-Men Production Scrapbook",
+    "Year": "2003",
+    "imdbID": "tt0369061",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzI4MGJhNzgtY2I0NC00Y2E3LThmYzMtZTc5MDk5N2U5MWQ0XkEyXkFqcGdeQXVyMTEyMDcwNw@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "X-Factor: The Look of 'X-Men'",
+    "Year": "2003",
+    "imdbID": "tt0372034",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTkxNDIwNTItOTZjZi00MGMxLWE2YmQtYjA3MDJlNjc3NWI0XkEyXkFqcGdeQXVyMTEyMDcwNw@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Secret Origin of X-Men",
+    "Year": "2003",
+    "imdbID": "tt0395756",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "X Men: The Last Stand - Production Diaries",
+    "Year": "2006",
+    "imdbID": "tt0960099",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "X-Men XXX: An Axel Braun Parody",
+    "Year": "2014",
+    "imdbID": "tt3905688",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "X-Men First Class Rejects",
+    "Year": "2011",
+    "imdbID": "tt1945232",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "The Visual Effects of X-Men",
+    "Year": "2003",
+    "imdbID": "tt0371381",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "X-Men: Evolution of a Trilogy",
+    "Year": "2006",
+    "imdbID": "tt1424889",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "X Men Origins: Wolverine T4 Movie Special",
+    "Year": "2009",
+    "imdbID": "tt1423570",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "X-Men, Vol. 2: Return to Weapon X",
+    "Year": "2004",
+    "imdbID": "tt0491818",
+    "Type": "movie",
+    "Poster": "N/A"
+  },
+  {
+    "Title": "Children of the Atom: Filming X-Men: First Class",
+    "Year": "2011",
+    "imdbID": "tt2058594",
+    "Type": "movie",
+    "Poster": "N/A"
   }
 ]
