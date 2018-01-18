@@ -46,7 +46,7 @@
     "Year": "2018",
     "imdbID": "tt7076968",
     "Type": "movie",
-    "Poster": "N/A"
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_SX300.jpg"
   },
   {
     "Title": "Jurassic World: Fallen Kingdom",
@@ -67,7 +67,7 @@
     "Year": "2018",
     "imdbID": "tt7167602",
     "Type": "movie",
-    "Poster": "N/A"
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_SX300.jpg"
   },
   {
     "Title": "Mamma Mia! Here We Go Again",
@@ -95,7 +95,7 @@
     "Year": "2018",
     "imdbID": "tt5090566",
     "Type": "movie",
-    "Poster": "N/A"
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDg1NTU2OWEtM2UzYi00ZWRmLWEwMTktZWNjYWQ1NWM1OThjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
   },
   {
     "Title": "Hotel Transylvania 3: Summer Vacation",
@@ -144,6 +144,6 @@
     "Year": "2019",
     "imdbID": "tt2283336",
     "Type": "movie",
-    "Poster": "N/A"
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTlhYTVkMDktYzIyNC00NzlkLTlmN2ItOGEyMWQ4OTA2NDdmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
   }
 ]
