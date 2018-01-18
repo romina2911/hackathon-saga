@@ -39,3 +39,7 @@ body{
 .icon-user{
     right: 2%;
 }
+/* modal*/
+.list-unlisted{
+    list-style: none;
+}
