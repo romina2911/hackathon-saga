@@ -16,10 +16,10 @@
 </head>
 <body class="color-text-body">
   <!-- Barra de navegación -->
-  <nav class="nav-dark container-fluid d-flex flex-row p-1 pb-2 logo-text ">
+  <nav class="nav-dark container-fluid d-flex flex-row p-1 pb-2 logo-text mb-3">
     <!-- <i class="fa fa-bars p-2 d-flex align-items-center" aria-hidden="true"></i> -->
-    <div class="dropdown show mt-2">
-      <a class="btn btn-secondary dropdown-toggle fa fa-bars p-2 d-flex align-items-center nav-dark border-0 " href="#" role="button" id="dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></a>
+    <div class="dropdown show mt-2" id="icon-bars">
+      <a class="btn btn-secondary dropdown-toggle fa fa-bars p-2 d-flex align-items-center nav-dark border-0" href="#" role="button" id="dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></a>
       <div class="dropdown-menu nav-dark color-text-body" aria-labelledby="dropdown">
         <a class="dropdown-item color-text-body" href="#">Hola <span id="username"></span></a>
         <a class="dropdown-item color-text-body" href="#">Mi Perfil</a>
@@ -27,13 +27,15 @@
         <button class="dropdown-item bg-warning ml-3 pl-2 w-75 rounded" href="#" type="submit">Cerrar sesión</button>
       </div>
     </div>
-    <h1>Syneek</h1>
-    <i class="fa fa-user-circle-o p-2 mt-2 pl-5 ml-4 " aria-hidden="true"></i>
+    <h1 id="logo">Syneek</h1>
+    <div class="position-absolute mt-3 icon-user">
+      <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+    </div>
   </nav>
   <!-- Input de búsqueda de películas de saga -->
-  <div class="container w-50 d-flex justify-content-center ml-0 mt-4 ml-3">
+  <div class="container w-75 d-flex justify-content-center m-auto mt-5 ">
     <div class="input-group mb-3">
-      <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+      <input type="text" class="form-control" placeholder="Busca tu saga" aria-label="saga" aria-describedby="basic-addon1">
     <div class="input-group-prepend ">
     <span class="input-group-text fa fa-search bg-dark rounded-right border border-dark text-light" id="basic-addon1"></span>
     </div>
@@ -41,19 +43,21 @@
   </div>
   <hr class="bg-dark">
   <!-- sección del perfil -->
-  <div class="container ml-0 mr-0">
-    <h4>Mi Perfil</h4>
-    <div class="d-flex justify-content-center flex-column w-25 text-center card-user">
+  <h4 class="ml-4">Mi Perfil</h4>
+  <div class="container mr-0 ml-0 d-flex justify-content-center mr-0 m-auto">
+    <div class="d-flex justify-content-center flex-column text-center mr-0 m-auto">
       <i class="fa fa-user-circle-o mb-2" id="photo-user" aria-hidden="true"></i>
       <button class="btn btn-warning rounded mb-2">Subir foto</button>
-      <span id="username">Username</span>
+      <span id="username" class="mb-3">Username</span>
       </div>
   </div>
   <div class="container">
-    <p>Nombre de usuario: <span></span></p>
+    <div class="d-flex flex-row">
+      <p class="mr-1">Nombre de usuario: <span></span></p><input type="text" name="" id="" class="w-50 rounded">
+    </div>
     <p>Géneros favoritos:</p>
-    <div class="form-yay d-flex flex-row">
-    <form class="col-sm-4  w-25 mr-0" id="form-h">
+    <div class="d-flex flex-row justify-content-center m-auto">
+    <form class="col-sm-4 mr-0" id="form-h">
       <div class="form-check">
         <input type="checkbox" class="form-check-input" id="exampleCheck1">
         <label class="form-check-label" for="exampleCheck1">Terror</label>
@@ -79,7 +83,7 @@
           <label class="form-check-label" for="exampleCheck1">Aventura</label>
         </div>
     </form>
-    <form class="col-sm-push-4 w-25 d-inline-block" id="form-h2">
+    <form class="col-sm-push-4 d-inline-block" id="form-h2">
         <div class="form-check">
           <input type="checkbox" class="form-check-input" id="exampleCheck1">
           <label class="form-check-label" for="exampleCheck1">Suspenso</label>
@@ -107,14 +111,14 @@
           <div class="form-check">
             <input type="checkbox" class="form-check-input" id="exampleCheck1">
             <label class="form-check-label" for="exampleCheck1">Otros:</label>
-            <input type="text" name="" id="" class="w-75">
+            <input type="text" name="" id="" class="w-75 rounded">
           </div>
       </form>
   </div>
 </div>
 </div>
-  <div class="container">
-    <button class="btn btn-warning d-flex justify-content-center flex-column w-25 text-center card-user mt-3">Guardar cambios</button>
+  <div class="container mt-4">
+    <button class="btn btn-warning d-flex justify-content-center w-50 card-user mt-3 justify-content-center mr-0 m-auto">Guardar cambios</button>
   </div>
   <!-- Bootstrap js -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>

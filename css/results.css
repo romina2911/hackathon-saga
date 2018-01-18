@@ -39,11 +39,3 @@ body{
 .icon-user{
     right: 2%;
 }
-@media (min-width:600px){
-    #icon-bars{
-        display: none;
-    }
-    #logo{
-        margin-left: 2vh;
-    }
-}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Saga</title>
+  <!-- google fonts -->
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans|Raleway|Righteous" rel="stylesheet">
+  <!-- css Bootstrap-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css">
+  <!-- font awesome icons -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- css de la vista search -->
+  <link rel="stylesheet" href="../css/profile.css">
+</head>
+<body class="color-text-body">
+  <!-- Barra de navegación -->
+  <nav class="nav-dark container-fluid d-flex flex-row p-1 pb-2 logo-text mb-3">
+    <!-- <i class="fa fa-bars p-2 d-flex align-items-center" aria-hidden="true"></i> -->
+    <div class="dropdown show mt-2" id="icon-bars">
+      <a class="btn btn-secondary dropdown-toggle fa fa-bars p-2 d-flex align-items-center nav-dark border-0" href="#" role="button" id="dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></a>
+      <div class="dropdown-menu nav-dark color-text-body" aria-labelledby="dropdown">
+        <a class="dropdown-item color-text-body" href="#">Hola <span id="username"></span></a>
+        <a class="dropdown-item color-text-body" href="#">Mi Perfil</a>
+        <a class="dropdown-item color-text-body" href="#">Mis Colecciones</a>
+        <button class="dropdown-item bg-warning ml-3 pl-2 w-75 rounded" href="#" type="submit">Cerrar sesión</button>
+      </div>
+    </div>
+    <h1 id="logo">Syneek</h1>
+    <div class="position-absolute mt-3 icon-user">
+      <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+    </div>
+  </nav>
+  <!-- Input de búsqueda de películas de saga -->
+  <div class="container w-75 d-flex justify-content-center m-auto mt-5 ">
+    <div class="input-group mb-3">
+      <input type="text" class="form-control" placeholder="Busca tu saga" aria-label="saga" aria-describedby="basic-addon1">
+    <div class="input-group-prepend ">
+    <span class="input-group-text fa fa-search bg-dark rounded-right border border-dark text-light" id="basic-addon1"></span>
+    </div>
+    </div>
+  </div>
+  <hr class="bg-dark">
+  <!-- sección del perfil -->
+  <div class="container">
+    <h4>Mis Colecciones</h4>
+  </div>
+  <!-- Bootstrap js -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.bundle.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>  
+  <!-- adjuntando js de la vista search -->
+  <script src="../js/profile.js"></script>
+</body>
+</html>
