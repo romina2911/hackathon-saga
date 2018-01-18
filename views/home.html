@@ -8,32 +8,71 @@
   <!-- google fonts -->
   <link href="https://fonts.googleapis.com/css?family=PT+Sans|Raleway|Righteous" rel="stylesheet">
   <!-- css Bootstrap-->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../vendors/bootstrap/css/bootstrap.min.css">
   <!-- font awesome icons -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <!-- css de la vista search -->
   <link rel="stylesheet" href="../css/home.css">
 </head>
 <body class="color-text-body">
-  <!-- Barra de navegación -->
-   <nav class="nav-dark container-fluid d-flex flex-row p-1 pb-2 logo-text mb-3">
-    <!-- <i class="fa fa-bars p-2 d-flex align-items-center" aria-hidden="true"></i> -->
-    <div class="dropdown show mt-2" id="icon-bars">
-      <a class="btn btn-secondary dropdown-toggle fa fa-bars p-2 d-flex align-items-center nav-dark border-0" href="#" role="button" id="dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></a>
-      <div class="dropdown-menu nav-dark color-text-body" aria-labelledby="dropdown">
-        <a class="dropdown-item color-text-body" href="#">Hola <span id="username"></span></a>
-        <a class="dropdown-item color-text-body" href="#">Mi Perfil</a>
-        <a class="dropdown-item color-text-body" href="#">Mis Colecciones</a>
-        <button class="dropdown-item bg-warning ml-3 pl-2 w-75 rounded" href="#" type="submit">Cerrar sesión</button>
-      </div>
-    </div>
-    <h1 id="logo">Syneek</h1>
-    <div class="position-absolute mt-2 icon-user">
-      <i class="fa fa-user-circle-o" aria-hidden="true"></i>
-    </div>
-  </nav>
+ <!-- Barra de navegación -->
+ <div class="container-fluid nav-dark">
+    <nav class="navbar navbar-default navbar-fixed-top navbar-collapse " role="navigation">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle pull-left" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Syneek</a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Mi Perfil</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mis Colecciones<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Terror</a></li>
+                <li class="divider"></li>
+                <li><a href="#">Comedia</a></li>
+                <li class="divider"></li>
+                <li><a href="#">Romance</a></li>
+                <li class="divider"></li>
+                <li><a href="#">Erótico</a></li>
+                <li class="divider"></li>
+                <li><a href="#">Animación</a></li>
+                <li class="divider"></li> 
+                <li><a href="#">Añade categoria</a></li>
+              </ul>
+            </li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#">Cerrar Sesión</a></li>
+              <ul class="dropdown-menu">
+                <li><a href="#">Terror</a></li>
+                <li><a href="#">Comedia</a></li>
+                <li><a href="#">Romance</a></li>
+                <li class="divider"></li>
+              <ul class="dropdown-menu">
+                <li><a href="#">Terror</a></li>
+                <li><a href="#">Comedia</a></li>
+                <li><a href="#">Romance</a></li>
+                <li><a href="#">Erótico</a></li>
+                <li><a href="#">Animación</a></li>
+                <li class="divider"></li> 
+                <li><a href="#">Añade categoria</a></li>                        
+                </ul>
+              </ul>
+            </li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </nav>
+</div>
   <!-- Input de búsqueda de películas de saga -->
-  <div class="container w-75 d-flex justify-content-center ml-0 mt-4 ml-3 m-auto">
+  <div class="container form-nav">
     <div class="input-group mb-3">
       <input type="text" class="form-control" placeholder="Busca tu saga" aria-label="saga" aria-describedby="basic-addon1">
     <div class="input-group-prepend ">
