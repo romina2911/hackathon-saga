@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Saga</title>
+  <!-- google fonts -->
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans|Raleway|Righteous" rel="stylesheet">
+  <!-- css Bootstrap-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css">
+  <!-- font awesome icons -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- css de la vista search -->
+  <link rel="stylesheet" href="../css/profile.css">
+</head>
+<body class="color-text-body">
+  <!-- Barra de navegación -->
+  <nav class="nav-dark container-fluid d-flex flex-row p-1 pb-2 logo-text ">
+    <!-- <i class="fa fa-bars p-2 d-flex align-items-center" aria-hidden="true"></i> -->
+    <div class="dropdown show mt-2">
+      <a class="btn btn-secondary dropdown-toggle fa fa-bars p-2 d-flex align-items-center nav-dark border-0 " href="#" role="button" id="dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></a>
+      <div class="dropdown-menu nav-dark color-text-body" aria-labelledby="dropdown">
+        <a class="dropdown-item color-text-body" href="#">Hola <span id="username"></span></a>
+        <a class="dropdown-item color-text-body" href="#">Mi Perfil</a>
+        <a class="dropdown-item color-text-body" href="#">Mis Colecciones</a>
+        <button class="dropdown-item bg-warning ml-3 pl-2 w-75 rounded" href="#" type="submit">Cerrar sesión</button>
+      </div>
+    </div>
+    <h1>Syneek</h1>
+    <i class="fa fa-user-circle-o p-2 mt-2 pl-5 ml-4 " aria-hidden="true"></i>
+  </nav>
+  <!-- Input de búsqueda de películas de saga -->
+  <div class="container w-50 d-flex justify-content-center ml-0 mt-4 ml-3">
+    <div class="input-group mb-3">
+      <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+    <div class="input-group-prepend ">
+    <span class="input-group-text fa fa-search bg-dark rounded-right border border-dark text-light" id="basic-addon1"></span>
+    </div>
+    </div>
+  </div>
+  <hr class="bg-dark">
+  <!-- sección del perfil -->
+  <div class="container ml-0 mr-0">
+    <h4>Mi Perfil</h4>
+    <div class="d-flex justify-content-center flex-column w-25 text-center card-user">
+      <i class="fa fa-user-circle-o mb-2" id="photo-user" aria-hidden="true"></i>
+      <button class="btn btn-warning rounded mb-2">Subir foto</button>
+      <span id="username">Username</span>
+      </div>
+  </div>
+  <div class="container">
+    <p>Nombre de usuario: <span></span></p>
+    <p>Géneros favoritos:</p>
+    <div class="form-yay d-flex flex-row">
+    <form class="col-sm-4  w-25 mr-0" id="form-h">
+      <div class="form-check">
+        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+        <label class="form-check-label" for="exampleCheck1">Terror</label>
+      </div>
+      <div class="form-check">
+        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+        <label class="form-check-label" for="exampleCheck1">Ficción</label>
+      </div>
+      <div class="form-check">
+        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+        <label class="form-check-label" for="exampleCheck1">Romance</label>
+      </div>
+      <div class="form-check">
+        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+        <label class="form-check-label" for="exampleCheck1">Comedia</label>
+      </div>
+      <div class="form-check">
+          <input type="checkbox" class="form-check-input" id="exampleCheck1">
+          <label class="form-check-label" for="exampleCheck1">Musicales</label>
+        </div>
+        <div class="form-check">
+          <input type="checkbox" class="form-check-input" id="exampleCheck1">
+          <label class="form-check-label" for="exampleCheck1">Aventura</label>
+        </div>
+    </form>
+    <form class="col-sm-push-4 w-25 d-inline-block" id="form-h2">
+        <div class="form-check">
+          <input type="checkbox" class="form-check-input" id="exampleCheck1">
+          <label class="form-check-label" for="exampleCheck1">Suspenso</label>
+        </div>
+        <div class="form-check">
+          <input type="checkbox" class="form-check-input" id="exampleCheck1">
+          <label class="form-check-label" for="exampleCheck1">Drama</label>
+        </div>
+        <div class="form-check">
+          <input type="checkbox" class="form-check-input" id="exampleCheck1">
+          <label class="form-check-label" for="exampleCheck1">Acción</label>
+        </div>
+        <div class="form-check">
+          <input type="checkbox" class="form-check-input" id="exampleCheck1">
+          <label class="form-check-label" for="exampleCheck1">Fantasía</label>
+        </div>
+        <div class="form-check">
+            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+            <label class="form-check-label" for="exampleCheck1">Erótica</label>
+          </div>
+          <div class="form-check">
+            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+            <label class="form-check-label" for="exampleCheck1">Animación</label>
+          </div>
+          <div class="form-check">
+            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+            <label class="form-check-label" for="exampleCheck1">Otros:</label>
+            <input type="text" name="" id="" class="w-50">
+          </div>
+      </form>
+  </div>
+</div>
+</div>
+  <div class="container">
+    <button class="btn btn-warning d-flex justify-content-center flex-column w-25 text-center card-user mt-3">Guardar cambios</button>
+  </div>
+  <!-- Bootstrap js -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.bundle.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>  
+  <!-- adjuntando js de la vista search -->
+  <script src="../js/profile.js"></script>
+</body>
+</html>
