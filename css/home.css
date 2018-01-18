@@ -1,0 +1,53 @@
+.row{
+  margin-top: 30px;
+}
+
+.container{
+  background: rgba(255,255,255,.7);
+  min-height: 100vh;
+  transition: .5s;
+  -webkit-transition: .5s;
+}
+
+#findButton{
+  background-color: black;
+  color: white;
+}
+
+.minImg{
+ width: 87px;
+ height: 100px;
+}
+
+.details{
+  z-index: 10;
+  min-height: 100vh;
+  top: 25%;
+  width: 0px;
+  position: absolute;
+  display: none;
+}
+
+.myCard{
+  left:40%;
+}
+
+tr, .myClose, .myButton{
+  cursor: pointer;
+}
+
+
+
+@media(max-width: 600px){
+  .myCard{
+      left: 0px;
+  }
+}
+
+#smallErrorMessage{
+  color:red;
+}
+
+.hide{
+  display: none;
+}
