@@ -37,11 +37,18 @@ body{
     right: 2%;
     font-size: 1.5em;
 }
-@media (min-width:600px){
-    #icon-bars{
-        display: none;
-    }
-    #logo{
-        margin-left: 2vh;
-    }
+.m-l{
+    margin-left: 3vh !important;
+}
+/* carousel */
+#carousel-sagas, #carousel-sagas2 {
+    width: 100% !important;
+    height: 30vh !important;
+}
+.m-b{
+    margin-bottom: 7vh !important;
+}
+.img-saga{
+    width: 100% !important;
+    height: 30vh !important;
 }
