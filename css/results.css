@@ -33,17 +33,28 @@ body{
 .white{
     color: #EDEECD !important;
 }
-.fa{
-    font-size: 1.5em;
+.form-input{
+    margin-top: 80vh !important;
+    margin: auto !important;
+    width: 50vh !important;
 }
-/* user */
-#photo-user{
-    font-size: 3em;
+.img-movie{
+    margin-top: 2vh;
+    margin-left: 3vh;
+    width: 20vh;
+    height: 30vh;
 }
-.icon-user{
-    right: 2%;
+.img-modal{
+    width: 20vh;
+    height: 30vh;
+    display: inline-block;
 }
-/* modal*/
-.list-unlisted{
-    list-style: none;
+.list-none{
+    list-style-type: none;
+    display: inline-block;
+}
+.btn-float{
+    display: flex;
+    flex-flow: row-reverse;
+    justify-content: flex-end;
 }

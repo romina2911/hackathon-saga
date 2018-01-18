@@ -75,19 +75,16 @@
   <div class="container form-nav ">
     <div class="input-group mb-3">
       <input type="text" class="form-control" placeholder="Busca tu saga" aria-label="saga" aria-describedby="basic-addon1">
-    <div class="input-group-prepend ">
-    <span class="input-group-text fa fa-search" id="basic-addon1"></span>
-    </div>
     </div>
   </div>
-  <hr class="bg-dark">
+  <hr>
   <!-- sección del perfil -->
-  <h4 class="ml-4">Mi Perfil</h4>
+  <h4 class="text-m">Mi Perfil</h4>
   <div class="container">
-    <div class="">
-      <i class="fa fa-user-circle-o mb-2" id="photo-user" aria-hidden="true"></i>
-      <button class="btn btn-warning rounded mb-2">Subir foto</button>
-      <span id="username" class="mb-3">Username</span>
+    <div class="user-presentation">
+      <i class="fa fa-user-circle-o m-b" id="photo-user" aria-hidden="true"></i>
+      <button class="btn btn-warning rounded m-b">Subir foto</button>
+      <span id="username" class="m-b">Username</span>
       </div>
   </div>
   <div class="container">
@@ -95,7 +92,7 @@
       <p class="mr-1">Nombre de usuario: <span></span></p><input type="text" name="" id="" class="w-50 rounded">
     </div>
     <p>Géneros favoritos:</p>
-    <div>
+    <div id="form">
     <form  id="form-h">
       <div class="form-check">
         <input type="checkbox" class="form-check-input" id="exampleCheck1">
@@ -121,7 +118,7 @@
           <input type="checkbox" class="form-check-input" id="exampleCheck1">
           <label class="form-check-label" for="exampleCheck1">Aventura</label>
         </div>
-    </form>
+    </form >
     <form id="form-h2">
         <div class="form-check">
           <input type="checkbox" class="form-check-input" id="exampleCheck1">
@@ -150,14 +147,14 @@
           <div class="form-check">
             <input type="checkbox" class="form-check-input" id="exampleCheck1">
             <label class="form-check-label" for="exampleCheck1">Otros:</label>
-            <input type="text" name="" id="" class="w-75 rounded">
+            <input type="text" name="" id="input-others" class="">
           </div>
       </form>
   </div>
 </div>
 </div>
-  <div class="container mt-4">
-    <button class="">Guardar cambios</button>
+  <div class="container ">
+    <button id="btn-save">Guardar cambios</button>
   </div>
   <!-- Bootstrap js -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>

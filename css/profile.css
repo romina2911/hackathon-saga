@@ -43,11 +43,41 @@ body{
 .icon-user{
     right: 2%;
 }
-@media (min-width:600px){
-    #icon-bars{
-        display: none;
-    }
-    #logo{
-        margin-left: 2vh;
-    }
+.text-m{
+    margin-left: 3vh !important;
+}
+.m-b{
+    margin-bottom: 1vh !important;
+}
+.user-presentation{
+    display: flex !important;
+    flex-flow: column !important;
+    margin: auto !important;
+    width: 50%;
+    text-align: center !important;
+}
+#form-h, #form-h2 {
+    width: 45% !important;
+    display: inline-block !important;
+}
+#form{
+    display: flex !important;
+    flex-flow: row !important;
+    margin: auto !important;
+    justify-content: center !important;
+}
+#input-others{
+    width: 10vh !important;
+}
+#btn-save{
+    width: 25vh !important;
+    background-color: goldenrod !important; 
+    border-radius: 5%;
+    display: flex !important;
+    flex-flow: row !important;
+    margin: auto !important;
+    justify-content: center !important;
+    padding: 1vh;
+    border: none !important;
+    margin-top: 4vh !important;
 }

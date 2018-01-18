@@ -15,7 +15,7 @@ botón: #f7b617
     color: #EDEECD !important;
 }
 .form-nav{
-    margin-top: 6em;
+    margin-top: 6em !important;
 }
 body{
     background: radial-gradient(#3a3939,#08080A);
