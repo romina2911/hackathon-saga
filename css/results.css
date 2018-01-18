@@ -12,6 +12,7 @@ botón: #f7b617
 */
 .nav-dark{
     background: linear-gradient(#9F0017,#9c1309);
+    color: #EDEECD !important;
 }
 .form-nav{
     margin-top: 6em;
@@ -29,8 +30,8 @@ body{
 .text{
     font-family: 'Raleway', sans-serif;
 }
-.color-text-body{
-    color: #EDEECD;
+.white{
+    color: #EDEECD !important;
 }
 .fa{
     font-size: 1.5em;
