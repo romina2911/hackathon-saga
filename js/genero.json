@@ -20,175 +20,259 @@
             "Type": "movie",
             "Year": "2018",
             "imdbID": "tt4500922"
-            } ],
-
-    
-            "Terror":[
-            {
-                "Title": "Resident Evil: Apocalypse",
-                "Year": "2004",
-                "imdbID": "tt0318627",
-                "Type": "movie",
-                "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1NTUxMzk0Nl5BMl5BanBnXkFtZTcwNDQ1MDIzMw@@._V1_SX300.jpg"
-              },
-              {
-                "Title": "Resident Evil: Extinction",
-                "Year": "2007",
-                "imdbID": "tt0432021",
-                "Type": "movie",
-                "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDQ0MWI3MmEtMzM0OC00Y2ViLWE4MDItMzNhNmY1ZTdjMWE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
-              },
-              {
-                "Title": "Resident Evil: Afterlife",
-                "Year": "2010",
-                "imdbID": "tt1220634",
-                "Type": "movie",
-                "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTMzMWJmODctZjE3NS00NTE0LWI1ZDQtMjRlY2VlNWFmYjg5XkEyXkFqcGdeQXVyNjc2ODQ5MTc@._V1_SX300.jpg"
-              } ],
-
-        
-              "Ficcion":[
-                    {
-                      "Title": "Star Wars: Episode IV - A New Hope",
-                      "Year": "1977",
-                      "imdbID": "tt0076759",
-                      "Type": "movie",
-                      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
-                    },
-                    {
-                      "Title": "Star Wars: Episode V - The Empire Strikes Back",
-                      "Year": "1980",
-                      "imdbID": "tt0080684",
-                      "Type": "movie",
-                      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
-                    },
-                    {
-                      "Title": "Star Wars: Episode VI - Return of the Jedi",
-                      "Year": "1983",
-                      "imdbID": "tt0086190",
-                      "Type": "movie",
-                      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
-                      } ],
-
-             "Romance":[     
-                {
-                    "Title": "Final Destination",
-                    "Year": "2000",
-                    "imdbID": "tt0195714",
-                    "Type": "movie",
-                    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTI0NGM2OGYtNzVmMi00NGQ2LTk2MDAtN2RmYjIzMGRkZGYxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
-                  },
-                  {
-                    "Title": "Final Destination 2",
-                    "Year": "2003",
-                    "imdbID": "tt0309593",
-                    "Type": "movie",
-                    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExMTMyODAzN15BMl5BanBnXkFtZTYwNjc5NDQ3._V1_SX300.jpg"
-                  },
-                  {
-                    "Title": "Final Destination 3",
-                    "Year": "2006",
-                    "imdbID": "tt0414982",
-                    "Type": "movie",
-                    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MzI0MzczOF5BMl5BanBnXkFtZTcwNzAyODExMw@@._V1_SX300.jpg"
-                    } ],
-
-                    "Comedia": [
-                      {
-                        "Title": "Sex and the City",
-                        "Year": "2008",
-                        "imdbID": "tt1000774",
-                        "Type": "movie",
-                        "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyMzYxMjM3OF5BMl5BanBnXkFtZTcwNjg2OTA3MQ@@._V1_SX300.jpg"
-                      },
-                      {
-                        "Title": "Sex and the City 2",
-                        "Year": "2010",
-                        "imdbID": "tt1261945",
-                        "Type": "movie",
-                        "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3OTUyNTI3MF5BMl5BanBnXkFtZTcwODcyMzM0Mw@@._V1_SX300.jpg"
-                      },
-                      {
-                        "Title": "Sex and the City: A Farewell",
-                        "Year": "2004",
-                        "imdbID": "tt0420896",
-                        "Type": "movie",
-                        "Poster": "N/A"
-                      }],
-                      
-                      "Musicales":[
-                        {
-                            "Title": "Shrek the Musical",
-                            "Year": "2013",
-                            "imdbID": "tt3070936",
-                            "Type": "movie",
-                            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1MTMwMjIyNF5BMl5BanBnXkFtZTgwMDMyODA2MDE@._V1_SX300.jpg"
-                          },
-                          {
-                            "Title": "The Little Mermaid",
-                            "Year": "1989",
-                            "imdbID": "tt0097757",
-                            "Type": "movie",
-                            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWVjZWRiYTItZmE4OS00MjY3LTlkYTEtNGQ2NzBjMjY0ODhlXkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_SX300.jpg"
-                          },
-                          {
-                            "Title": "The Little Mermaid 2: Return to the Sea",
-                            "Year": "2000",
-                            "imdbID": "tt0240684",
-                            "Type": "movie",
-                            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjMwNTkwYzktMWEzZC00MmQ5LWE5YjQtZWExY2ZjODExNDgyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
-                          }],
-
-                          "Aventura":[
-                            {
-                                "Title": "The Avengers",
-                                "Year": "2012",
-                                "imdbID": "tt0848228",
-                                "Type": "movie",
-                                "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_SX300.jpg"
-                              },
-                              {
-                                "Title": "Avengers: Age of Ultron",
-                                "Year": "2015",
-                                "imdbID": "tt2395427",
-                                "Type": "movie",
-                                "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg"
-                              },
-                              {
-                                "Title": "Ultimate Avengers",
-                                "Year": "2006",
-                                "imdbID": "tt0491703",
-                                "Type": "movie",
-                                "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjY0Mzg1NDAtZmVmNC00NDIyLTk4YjEtYzU4ZTU2ZTZkMDc0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
-                              }],
-
-                              "Suspenso":[
-                                {
-                                    "Title": "Paranormal Activity",
-                                    "Year": "2007",
-                                    "imdbID": "tt1179904",
-                                    "Type": "movie",
-                                    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjY1NjcxODQ4MV5BMl5BanBnXkFtZTcwMzUxNjM4Mg@@._V1_SX300.jpg"
-                                  },
-                                  {
-                                    "Title": "Paranormal Activity 2",
-                                    "Year": "2010",
-                                    "imdbID": "tt1536044",
-                                    "Type": "movie",
-                                    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4NDgwMzAxNF5BMl5BanBnXkFtZTcwNTE3OTk4Mw@@._V1_SX300.jpg"
-                                  },
-                                  {
-                                    "Title": "Paranormal Activity 3",
-                                    "Year": "2011",
-                                    "imdbID": "tt1778304",
-                                    "Type": "movie",
-                                    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0MTQzODQzOV5BMl5BanBnXkFtZTcwMDQ2NzQ3Ng@@._V1_SX300.jpg"
-                                  }]
-
-                 
-    
- }
-
-
-        
-    
+        }
+    ],
+    "Terror": [
+        {
+            "Title": "Resident Evil: Apocalypse",
+            "Year": "2004",
+            "imdbID": "tt0318627",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1NTUxMzk0Nl5BMl5BanBnXkFtZTcwNDQ1MDIzMw@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Resident Evil: Extinction",
+            "Year": "2007",
+            "imdbID": "tt0432021",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDQ0MWI3MmEtMzM0OC00Y2ViLWE4MDItMzNhNmY1ZTdjMWE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Resident Evil: Afterlife",
+            "Year": "2010",
+            "imdbID": "tt1220634",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTMzMWJmODctZjE3NS00NTE0LWI1ZDQtMjRlY2VlNWFmYjg5XkEyXkFqcGdeQXVyNjc2ODQ5MTc@._V1_SX300.jpg"
+        }
+    ],
+    "Ficcion": [
+        {
+            "Title": "Star Wars: Episode IV - A New Hope",
+            "Year": "1977",
+            "imdbID": "tt0076759",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Star Wars: Episode V - The Empire Strikes Back",
+            "Year": "1980",
+            "imdbID": "tt0080684",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Star Wars: Episode VI - Return of the Jedi",
+            "Year": "1983",
+            "imdbID": "tt0086190",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+        }
+    ],
+    "Romance": [
+        {
+            "Title": "Final Destination",
+            "Year": "2000",
+            "imdbID": "tt0195714",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTI0NGM2OGYtNzVmMi00NGQ2LTk2MDAtN2RmYjIzMGRkZGYxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Final Destination 2",
+            "Year": "2003",
+            "imdbID": "tt0309593",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExMTMyODAzN15BMl5BanBnXkFtZTYwNjc5NDQ3._V1_SX300.jpg"
+        },
+        {
+            "Title": "Final Destination 3",
+            "Year": "2006",
+            "imdbID": "tt0414982",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MzI0MzczOF5BMl5BanBnXkFtZTcwNzAyODExMw@@._V1_SX300.jpg"
+        }
+    ],
+    "Comedia": [
+        {
+            "Title": "Sex and the City",
+            "Year": "2008",
+            "imdbID": "tt1000774",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyMzYxMjM3OF5BMl5BanBnXkFtZTcwNjg2OTA3MQ@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Sex and the City 2",
+            "Year": "2010",
+            "imdbID": "tt1261945",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3OTUyNTI3MF5BMl5BanBnXkFtZTcwODcyMzM0Mw@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Sex and the City: A Farewell",
+            "Year": "2004",
+            "imdbID": "tt0420896",
+            "Type": "movie",
+            "Poster": "N/A"
+        }
+    ],
+    "Musicales": [
+        {
+            "Title": "Shrek the Musical",
+            "Year": "2013",
+            "imdbID": "tt3070936",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1MTMwMjIyNF5BMl5BanBnXkFtZTgwMDMyODA2MDE@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Little Mermaid",
+            "Year": "1989",
+            "imdbID": "tt0097757",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWVjZWRiYTItZmE4OS00MjY3LTlkYTEtNGQ2NzBjMjY0ODhlXkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Little Mermaid 2: Return to the Sea",
+            "Year": "2000",
+            "imdbID": "tt0240684",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjMwNTkwYzktMWEzZC00MmQ5LWE5YjQtZWExY2ZjODExNDgyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+        }
+    ],
+    "Aventura": [
+        {
+            "Title": "The Avengers",
+            "Year": "2012",
+            "imdbID": "tt0848228",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Avengers: Age of Ultron",
+            "Year": "2015",
+            "imdbID": "tt2395427",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Ultimate Avengers",
+            "Year": "2006",
+            "imdbID": "tt0491703",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjY0Mzg1NDAtZmVmNC00NDIyLTk4YjEtYzU4ZTU2ZTZkMDc0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+        }
+    ],
+    "Suspenso": [
+        {
+            "Title": "Paranormal Activity",
+            "Year": "2007",
+            "imdbID": "tt1179904",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjY1NjcxODQ4MV5BMl5BanBnXkFtZTcwMzUxNjM4Mg@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Paranormal Activity 2",
+            "Year": "2010",
+            "imdbID": "tt1536044",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4NDgwMzAxNF5BMl5BanBnXkFtZTcwNTE3OTk4Mw@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Paranormal Activity 3",
+            "Year": "2011",
+            "imdbID": "tt1778304",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0MTQzODQzOV5BMl5BanBnXkFtZTcwMDQ2NzQ3Ng@@._V1_SX300.jpg"
+        }
+    ],
+    "Drama": [
+        {
+            "Title": "The Man in the Iron Mask",
+            "Year": "1977",
+            "imdbID": "tt0074853",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMwNjYxMjA0NF5BMl5BanBnXkFtZTgwNDAzODk1MDE@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Face of Alexandre Dumas: The Man in the Iron Mask",
+            "Year": "1998",
+            "imdbID": "tt0141574",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTQ3NjIwNzcwMF5BMl5BanBnXkFtZTcwNjcwNDMyMQ@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Hunger Games: Catching Fire",
+            "Year": "2013",
+            "imdbID": "tt1951264",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_SX300.jpg"
+        }
+    ],
+    "Fantasia": [
+        {
+            "Title": "Superman: The Last Son of Krypton",
+            "Year": "1996",
+            "imdbID": "tt0177267",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwNDYyNTEwMF5BMl5BanBnXkFtZTcwOTY5MDgyMQ@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Incredible Hulk",
+            "Year": "2008",
+            "imdbID": "tt0800080",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Hulk",
+            "Year": "2003",
+            "imdbID": "tt0286716",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjcxMzZhZTEtMmEwYi00NDJmLWE5ZmUtOWJiMzRmMzEzMTY3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+        }
+    ],
+    "Erotica": [
+        {
+            "Title": "Rocky Handsome",
+            "Year": "2016",
+            "imdbID": "tt3410408",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmExODg0ODAtNWJhMC00NDQwLTkwNjAtOWI1ZDBmMjRjZjU1XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Sex and the City",
+            "Year": "2008",
+            "imdbID": "tt1000774",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyMzYxMjM3OF5BMl5BanBnXkFtZTcwNjg2OTA3MQ@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Sex and the City 2",
+            "Year": "2010",
+            "imdbID": "tt1261945",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3OTUyNTI3MF5BMl5BanBnXkFtZTcwODcyMzM0Mw@@._V1_SX300.jpg"
+        }
+    ],
+    "Animacion": [
+        {
+            "Title": "Shrek 4-D",
+            "Year": "2003",
+            "imdbID": "tt0360985",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzMwNTU5Y2YtMmUyMC00N2JiLWIyZmItNDI0YmM1YmZmNTNhXkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Shrek the Musical",
+            "Year": "2013",
+            "imdbID": "tt3070936",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1MTMwMjIyNF5BMl5BanBnXkFtZTgwMDMyODA2MDE@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Little Mermaid: Ariel's Beginning",
+            "Year": "2008",
+            "imdbID": "tt0969647",
+            "Type": "movie",
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIyNTAwMTU0Nl5BMl5BanBnXkFtZTcwMjA5MzM2MQ@@._V1_SX300.jpg"
+        }
+    ]
+}
